@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivjeet1
 - 👀 I’m interested in Android and Linux
 - 🌱 I’m currently learning basic programming languages like java, python and C.
-- 💞️ I’m looking to collaborate on Magisk/ksu modules or ROM development.
+- 💞️ I’m looking to collaborate on FOSS projects or ROM development.
 - 📫 How to reach me shivamlavhale120@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use arch btw!
