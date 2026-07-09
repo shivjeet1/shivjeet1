@@ -20,7 +20,7 @@
   <!---
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivjeet1&layout=compact&theme=transparent&hide_border=true&langs_count=5" />
   --->
-  <img height="160" src="https://streak-stats.demolab.com?user=shivjeet1&theme=transparent&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=shivjeet1&amp;theme=transparent&amp;hide_border=true" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=shivjeet1&label=Profile%20views&color=C800FF&style=for-the-badge" />
 </p>
