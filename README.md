@@ -27,6 +27,6 @@
 
 ### A Snakey Friend
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shivjeet1/shivjeet1/output/github-contribution-grid-snake-dark.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shivjeet1/shivjeet1/output/snake.svg" alt="Snake animation" />
 </div>
 
